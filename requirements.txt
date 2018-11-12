@@ -1,0 +1,5 @@
+binascii
+pycryptodome
+filemagic
+binascii
+nltk
